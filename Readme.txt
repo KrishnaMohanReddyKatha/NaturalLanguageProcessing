@@ -9,5 +9,4 @@ SimplifiedLESK.py
              Output will be shown with info on sense and overlap count, the best sense of the word in the given context.
 
             Note : 
-              stopWords are removed, repetition of words is removed and also word “bank” is removed (from given sentence, sense definition, sense examples)
-			  before calculating the overlap count.
+              stopWords are removed, repetition of words is removed and also word “bank” is removed (from given sentence, sense definition, sense examples)	before calculating the overlap count.
